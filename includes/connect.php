@@ -1,8 +1,7 @@
 <?php
 	// Set up connection credentials
 	$user = "root";
-	//$pass = "";//PC
-	$pass = "root";//Mac
+	$pass = "";
 	$url = "localhost";
 	$db = "db_r_m_chantryisland";
 	//$link = mysqli_connect($url,$user,$pass,$db);//PC
